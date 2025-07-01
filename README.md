@@ -2,6 +2,9 @@
 
 **Name:** Bricole Asiachi  
 **Student ID:** 670834
+
+---
+
 This project demonstrates a simple **ETL (Extract, Transform, Load)** process using synthetic sales data. The pipeline simulates full and incremental data extraction, followed by loading into SQLite (for full data) and Parquet format (for incremental data).
 
 ---
