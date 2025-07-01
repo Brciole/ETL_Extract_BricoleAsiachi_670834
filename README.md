@@ -59,7 +59,7 @@ The project mimics a real-world scenario where daily sales records are collected
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/etl-sales-pipeline.git
-cd etl-sales-pipelin
+git clone (https://github.com/Brciole/ETL_Extract_BricoleAsiachi_670834)
+cd ETL_Extract_BricoleAsiachi_670834
 
 
